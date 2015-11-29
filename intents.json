@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "HelloWorld",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "NAMES"
+        }
+      ]
+    }
+  ]
+}
