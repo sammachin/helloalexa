@@ -1,3 +1,0 @@
-HelloWorld run hello world for {Name}
-
-HelloWorld run hello world 

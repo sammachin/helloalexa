@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "HelloName",
+      "slots": [
+        {
+          "name": "firstname",
+          "type": "AMAZON.GB_FIRST_NAME"
+        }
+      ]
+    }
+  ]
+}
